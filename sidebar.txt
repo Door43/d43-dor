@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dor:home|Door43 (dor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dor|d43-dor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dor/archive/master.zip|d43-dor.zip]]
+
+**Recent Changes**
+{{changes>ns = dor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dor|Ethnologue data]]
+
